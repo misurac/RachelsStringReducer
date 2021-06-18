@@ -7,7 +7,7 @@ It returns a string containing every third letter from the original string.
 Windows.
 
 # To Run
-Install and update Flask using pip:
+Navigate to the project folder. Install and update Flask using pip:
   
   > pip install -U Flask
 
